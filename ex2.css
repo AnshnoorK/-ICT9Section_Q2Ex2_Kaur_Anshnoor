@@ -1,0 +1,35 @@
+body {
+	  font-family: Arial, sans-serif; 
+	  text-align: center;
+	  margin: 50px;
+
+	  }
+
+#bp {
+	    background-color: black;
+	    color: pink; 
+	    padding:20px;
+	    width: 60%; 
+	   border: solid;
+	   border-color: lightcoral;
+	   display: inline-block; text-align: center;
+	   
+
+	   }
+
+#bp2{
+		background-color: pink;
+	    color: black; 
+	    padding:20px;
+	    width: 60%;
+	    border: solid;
+	   border-color: lightcoral;
+	   display: inline-block;}
+
+
+h1 {
+	color:lightpink; font-style: italic; font-weight: bolder; font-size: 50px; text-align: center;}
+
+h2 {font-weight:bold; }
+
+p {text-align: left}
